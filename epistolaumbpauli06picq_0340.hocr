@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./epistolaumbpauli06picq_0340.png"; bbox 0 0 1474 2658; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 124 148 1434 171">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 124 148 1434 171">
+     <span class='ocr_line' id='line_1_1' title="bbox 124 148 1434 171; baseline 0 2487"><span class='ocrx_word' id='word_1_1' title='bbox 124 148 1434 171; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 311 261 1258 351">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 311 261 1258 351">
+     <span class='ocr_line' id='line_1_2' title="bbox 311 261 1258 351; baseline 0.006 -11"><span class='ocrx_word' id='word_1_2' title='bbox 311 261 616 343; x_wconf 88' lang='lat' dir='ltr'>INDEX</span> <span class='ocrx_word' id='word_1_3' title='bbox 662 265 910 345; x_wconf 86' lang='lat' dir='ltr'><strong>TOMI</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 958 265 1258 351; x_wconf 84' lang='lat' dir='ltr'><strong>SEXTI.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 94 588 1449 1539">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 94 588 1449 1342">
+     <span class='ocr_line' id='line_1_3' title="bbox 94 588 1446 698; baseline 0.003 -17"><span class='ocrx_word' id='word_1_5' title='bbox 94 692 99 694; x_wconf 24' lang='lat'>¹</span> <span class='ocrx_word' id='word_1_6' title='bbox 125 588 201 679; x_wconf 83' lang='lat' dir='ltr'>P</span> <span class='ocrx_word' id='word_1_7' title='bbox 207 652 408 683; x_wconf 61' lang='lat' dir='ltr'><strong>lum-*Avo</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 432 635 644 696; x_wconf 82' lang='lat' dir='ltr'><strong>Epistolae</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 674 638 734 686; x_wconf 89' lang='lat' dir='ltr'><strong>ad</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 755 638 999 697; x_wconf 77' lang='lat' dir='ltr'><strong>Hebraeos,</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1311 658 1404 698; x_wconf 73' lang='lat' dir='ltr'><strong><em>pag.</em></strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1431 644 1446 684; x_wconf 84' lang='grc' dir='ltr'>ἰ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 123 701 1444 760; baseline -0.001 -13"><span class='ocrx_word' id='word_1_13' title='bbox 123 702 271 759; x_wconf 78' lang='lat' dir='ltr'>Caput</span> <span class='ocrx_word' id='word_1_14' title='bbox 289 701 483 758; x_wconf 72' lang='lat' dir='ltr'>primum</span> <span class='ocrx_word' id='word_1_15' title='bbox 504 739 515 760; x_wconf 90' lang='lat'>‚</span> <span class='ocrx_word' id='word_1_16' title='bbox 1422 724 1444 751; x_wconf 82' lang='lat'>1</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 121 767 1443 827; baseline 0.003 -16"><span class='ocrx_word' id='word_1_17' title='bbox 121 767 269 823; x_wconf 75' lang='lat' dir='ltr'>Caput</span> <span class='ocrx_word' id='word_1_18' title='bbox 285 767 530 814; x_wconf 83' lang='lat' dir='ltr'>secundum</span> <span class='ocrx_word' id='word_1_19' title='bbox 555 803 568 827; x_wconf 89' lang='lat'>,</span> <span class='ocrx_word' id='word_1_20' title='bbox 1390 787 1443 815; x_wconf 64' lang='grc' dir='ltr'><strong>αι</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 126 832 1446 889; baseline -0.001 -11"><span class='ocrx_word' id='word_1_21' title='bbox 126 832 271 888; x_wconf 80' lang='lat' dir='ltr'>Caput</span> <span class='ocrx_word' id='word_1_22' title='bbox 288 832 488 889; x_wconf 75' lang='lat' dir='ltr'><strong>tertium,</strong></span> <span class='ocrx_word' id='word_1_23' title='bbox 1387 832 1446 888; x_wconf 75' lang='grc'><strong>43</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 127 896 1448 954; baseline 0.002 -14"><span class='ocrx_word' id='word_1_24' title='bbox 127 896 272 952; x_wconf 78' lang='lat' dir='ltr'>Caput</span> <span class='ocrx_word' id='word_1_25' title='bbox 293 906 500 953; x_wconf 76' lang='lat' dir='ltr'><strong>quartum</strong></span> <span class='ocrx_word' id='word_1_26' title='bbox 519 933 532 954; x_wconf 89' lang='lat'>‚</span> <span class='ocrx_word' id='word_1_27' title='bbox 1388 898 1448 942; x_wconf 84' lang='lat'><strong>63</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 122 959 1448 1017; baseline -0.003 -11"><span class='ocrx_word' id='word_1_28' title='bbox 122 961 272 1017; x_wconf 75' lang='lat' dir='ltr'><strong>Caput</strong></span> <span class='ocrx_word' id='word_1_29' title='bbox 291 959 497 1016; x_wconf 75' lang='lat' dir='ltr'>quintum</span> <span class='ocrx_word' id='word_1_30' title='bbox 511 994 522 1016; x_wconf 82' lang='lat'>,</span> <span class='ocrx_word' id='word_1_31' title='bbox 1389 959 1448 1003; x_wconf 86' lang='lat'><strong>83</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 124 1027 1447 1083; baseline -0.002 -12"><span class='ocrx_word' id='word_1_32' title='bbox 124 1027 271 1082; x_wconf 81' lang='lat' dir='ltr'>Caput</span> <span class='ocrx_word' id='word_1_33' title='bbox 289 1037 460 1072; x_wconf 85' lang='lat' dir='ltr'><strong>sextum</strong></span> <span class='ocrx_word' id='word_1_34' title='bbox 477 1061 488 1081; x_wconf 90' lang='lat'>‚</span> <span class='ocrx_word' id='word_1_35' title='bbox 1388 1040 1447 1083; x_wconf 85' lang='lat'><strong>99</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 126 1089 1449 1149; baseline -0.004 -13"><span class='ocrx_word' id='word_1_36' title='bbox 126 1090 280 1148; x_wconf 81' lang='lat' dir='ltr'>Caput</span> <span class='ocrx_word' id='word_1_37' title='bbox 301 1090 542 1148; x_wconf 81' lang='lat' dir='ltr'><strong>septimum</strong></span> <span class='ocrx_word' id='word_1_38' title='bbox 561 1124 575 1149; x_wconf 89' lang='lat'>,</span> <span class='ocrx_word' id='word_1_39' title='bbox 1366 1089 1449 1132; x_wconf 79' lang='lat'><strong>125</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_11' title="bbox 126 1153 1448 1211; baseline -0.003 -11"><span class='ocrx_word' id='word_1_40' title='bbox 126 1155 280 1211; x_wconf 78' lang='lat' dir='ltr'>Caput</span> <span class='ocrx_word' id='word_1_41' title='bbox 303 1165 510 1201; x_wconf 78' lang='lat' dir='ltr'><strong>octavum</strong></span> <span class='ocrx_word' id='word_1_42' title='bbox 526 1189 537 1211; x_wconf 91' lang='lat'><strong>‚</strong></span> <span class='ocrx_word' id='word_1_43' title='bbox 1201 1196 1209 1203; x_wconf 81' lang='grc'>,</span> <span class='ocrx_word' id='word_1_44' title='bbox 1365 1153 1448 1196; x_wconf 78' lang='lat'><strong>155</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_12' title="bbox 126 1220 1447 1277; baseline -0.004 -11"><span class='ocrx_word' id='word_1_45' title='bbox 126 1220 281 1277; x_wconf 73' lang='lat' dir='ltr'>Caput</span> <span class='ocrx_word' id='word_1_46' title='bbox 310 1236 481 1265; x_wconf 89' lang='lat' dir='ltr'><strong>nonum</strong></span> <span class='ocrx_word' id='word_1_47' title='bbox 497 1252 508 1274; x_wconf 89' lang='lat'>,</span> <span class='ocrx_word' id='word_1_48' title='bbox 1366 1233 1447 1273; x_wconf 80' lang='lat'><strong>172</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_13' title="bbox 125 1284 1448 1342; baseline -0.003 -11"><span class='ocrx_word' id='word_1_49' title='bbox 125 1285 280 1342; x_wconf 78' lang='lat' dir='ltr'>Caput</span> <span class='ocrx_word' id='word_1_50' title='bbox 302 1284 530 1330; x_wconf 82' lang='lat' dir='ltr'>decimum</span> <span class='ocrx_word' id='word_1_51' title='bbox 549 1318 562 1338; x_wconf 81' lang='grc'><em>,</em></span> <span class='ocrx_word' id='word_1_52' title='bbox 1364 1286 1448 1328; x_wconf 84' lang='lat'><strong>203</strong></span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 95 1351 1449 1539">
+     <span class='ocr_line' id='line_1_14' title="bbox 95 1351 1444 1410; baseline -0.002 -12"><span class='ocrx_word' id='word_1_53' title='bbox 95 1405 100 1410; x_wconf 29' lang='lat'><strong>⁴</strong></span> <span class='ocrx_word' id='word_1_54' title='bbox 126 1351 278 1409; x_wconf 76' lang='lat' dir='ltr'><strong>Caput</strong></span> <span class='ocrx_word' id='word_1_55' title='bbox 297 1352 583 1398; x_wconf 78' lang='lat' dir='ltr'><strong>undecimum</strong></span> <span class='ocrx_word' id='word_1_56' title='bbox 602 1384 617 1406; x_wconf 85' lang='lat'>,</span> <span class='ocrx_word' id='word_1_57' title='bbox 1363 1354 1444 1405; x_wconf 64' lang='lat'><strong>²4¹</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_15' title="bbox 127 1415 1449 1474; baseline -0.004 -11"><span class='ocrx_word' id='word_1_58' title='bbox 127 1415 279 1474; x_wconf 83' lang='lat' dir='ltr'><strong>Caput</strong></span> <span class='ocrx_word' id='word_1_59' title='bbox 301 1415 621 1463; x_wconf 75' lang='lat' dir='ltr'>duodecimum</span> <span class='ocrx_word' id='word_1_60' title='bbox 639 1450 652 1471; x_wconf 80' lang='grc'>,</span> <span class='ocrx_word' id='word_1_61' title='bbox 1363 1415 1449 1472; x_wconf 82' lang='lat'><strong>273</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_16' title="bbox 123 1479 1446 1539; baseline -0.002 -14"><span class='ocrx_word' id='word_1_62' title='bbox 123 1482 275 1539; x_wconf 78' lang='lat' dir='ltr'>Caput</span> <span class='ocrx_word' id='word_1_63' title='bbox 295 1480 517 1527; x_wconf 81' lang='lat' dir='ltr'>decimum</span> <span class='ocrx_word' id='word_1_64' title='bbox 545 1479 755 1536; x_wconf 81' lang='lat' dir='ltr'>tertium,</span> <span class='ocrx_word' id='word_1_65' title='bbox 1364 1481 1446 1523; x_wconf 84' lang='lat'><strong>301</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 475 1911 1094 1951">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 475 1911 1094 1951">
+     <span class='ocr_line' id='line_1_17' title="bbox 475 1911 1094 1951; baseline -0.01 -6"><span class='ocrx_word' id='word_1_66' title='bbox 475 1914 586 1946; x_wconf 62' lang='lat' dir='ltr'><strong>5³1le</strong></span> <span class='ocrx_word' id='word_1_67' title='bbox 607 1913 762 1945; x_wconf 77' lang='lat' dir='ltr'><strong>mmcls</strong></span> <span class='ocrx_word' id='word_1_68' title='bbox 782 1912 896 1942; x_wconf 75' lang='lat' dir='ltr'><strong>‘rom</strong></span> <span class='ocrx_word' id='word_1_69' title='bbox 921 1911 1094 1951; x_wconf 66' lang='lat' dir='ltr'><strong>QmNTi.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
